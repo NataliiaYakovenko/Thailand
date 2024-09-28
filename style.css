@@ -1,0 +1,24 @@
+    h1 {
+       font-size: 60px;
+       color:blue;
+       background-color:rgb(175, 189, 107);}
+    p {
+        font-size: 30px;
+        color:brown
+    }
+    .green-text {
+        color: chartreuse;
+    }
+    .pink-text {
+        color: darkorange;
+        font-size: 35px;
+    }
+    h2 {
+        font-size: 40px;
+        color: #345634;
+    }
+    #heading {
+        color:coral;
+        font-size:33px;
+        background-color: cornflowerblue;
+    }
